@@ -1,0 +1,7 @@
+DataTypes ✓
+Variables ✓
+Arrays ✓
+Conditionals ✓
+Loops ✓
+Functions ✓
+Packages ✓
