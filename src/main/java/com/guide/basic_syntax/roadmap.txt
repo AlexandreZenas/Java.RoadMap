@@ -1,7 +1,8 @@
-DataTypes ✓
-Variables ✓
-Arrays ✓
-Conditionals ✓
-Loops ✓
-Functions ✓
-Packages ✓
+1.Introduction
+2.DataTypes ✓
+3.Variables ✓
+4.Packages ✓
+5.Functions ✓
+6.Arrays ✓
+7.Conditionals ✓
+8.Loops ✓
